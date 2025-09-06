@@ -11,10 +11,12 @@ Steps Taken:
 1. Data Cleaning - Handled missing values, standardized state names, and fixed date format.
 2. Statistical Analysis  - Density charts, skewness, kurtosis, correlation, mean, and median
 3. Tableau Dashboards - Network (state ↔ vehicle type), line chart (growth), map (by state), and donut (by vehicle type), etc.
+   
 👉 Results
 Top states: Uttar Pradesh, Maharashtra, Karnataka lead EV adoption
 Categories: 2-wheelers and 3-wheelers dominate sales, while 4-wheelers and buses are growing gradually
 Yearly trend: Consistent growth in EV sales, with spikes in recent years
+
 🔑 Insights
 - EV adoption is concentrated in a few states, showing large regional disparities
 - Uttar Pradesh has a strong tie with E-rickshaws, while southern states like Tamil Nadu push 4-wheelers
